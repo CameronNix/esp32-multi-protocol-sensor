@@ -26,6 +26,8 @@ ESP32 GPIO17 (TX2) → Arduino RX
 Shared GND between both boards
 Arduino powered from ESP32 5V pin
 
+<img src="breadboard.jpg" width="300">
+
 **SPI (ESP32 → 74HC595):**
 
 GPIO23 (MOSI) → SER (pin 23)
@@ -47,6 +49,8 @@ Below 60°F → 1 LED
 80–85°F → 6 LEDs
 85–90°F → 7 LEDs
 Above 90°F → 8 LEDs
+
+<img src="breadboard_on.jpg" width="300">
 
 # Setup
 
